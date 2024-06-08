@@ -30,7 +30,7 @@ npm or yarn
 ##Clone the Repository
 bash
 Copy code
-git clone [https://github.com/username/mern-ecommerce.git](https://github.com/Naynn2003/ecommerce.git)
+git clone https://github.com/Naynn2003/ecommerce.git
 
 cd ecommerce
 Install Dependencies
