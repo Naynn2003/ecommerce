@@ -1,0 +1,51 @@
+API
+  project setup
+  db setup
+  user signup
+  validation
+  user singin using jwt
+  auth/admin middleware
+  categories - create
+  products - crud
+  products by arrval sold , search
+
+REACT CLIENT  
+
+  setup
+  routing/menu
+  signin/ signup
+  addmin route/ private route
+  user/ dadmin dashboard
+  create category
+  create product
+  products by sell
+  products by arrival
+  shop page with filter products by categories/price
+  filter product based on categories with checkbox
+  filter product based on price using button
+  search product with option of categories
+  signle product view 
+  signle product view with related products sidebar
+  cart page
+  add product to cart
+  product increament
+  remove product from cart
+  show total 
+  payment integration using brintree
+  checkout
+
+BACKEND/Frontend
+
+  API - Processing payment 
+  REACT - processing payment with braintree dropin ui 
+  delivery address
+  finalize payment 
+  send order details to backend 
+  savin orders
+  sold products count
+  view all orders
+  order status
+  profile update 
+  product update
+  deployment
+
